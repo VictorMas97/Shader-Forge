@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 609d8394631f92c43bc896b28dbcf2a1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bone_golem_body
+    100002: bone_golem_head
+    100004: bone_golem_L_finger_00
+    100006: bone_golem_L_finger_01
+    100008: bone_golem_L_finger_10
+    100010: bone_golem_L_finger_11
+    100012: bone_golem_L_finger_20
+    100014: bone_golem_L_finger_21
+    100016: bone_golem_L_finger_30
+    100018: bone_golem_L_finger_31
+    100020: bone_golem_L_hand
+    100022: bone_golem_L_shoulder
+    100024: bone_golem_mouth
+    100026: bone_golem_R_finger_00
+    100028: bone_golem_R_finger_01
+    100030: bone_golem_R_finger_10
+    100032: bone_golem_R_finger_11
+    100034: bone_golem_R_finger_20
+    100036: bone_golem_R_finger_21
+    100038: bone_golem_R_finger_30
+    100040: bone_golem_R_finger_31
+    100042: bone_golem_R_hand
+    100044: bone_golem_R_shoulder
+    100046: //RootNode
+    100048: GolemMesh
+    100050: helper L
+    100052: helper R
+    400000: bone_golem_body
+    400002: bone_golem_head
+    400004: bone_golem_L_finger_00
+    400006: bone_golem_L_finger_01
+    400008: bone_golem_L_finger_10
+    400010: bone_golem_L_finger_11
+    400012: bone_golem_L_finger_20
+    400014: bone_golem_L_finger_21
+    400016: bone_golem_L_finger_30
+    400018: bone_golem_L_finger_31
+    400020: bone_golem_L_hand
+    400022: bone_golem_L_shoulder
+    400024: bone_golem_mouth
+    400026: bone_golem_R_finger_00
+    400028: bone_golem_R_finger_01
+    400030: bone_golem_R_finger_10
+    400032: bone_golem_R_finger_11
+    400034: bone_golem_R_finger_20
+    400036: bone_golem_R_finger_21
+    400038: bone_golem_R_finger_30
+    400040: bone_golem_R_finger_31
+    400042: bone_golem_R_hand
+    400044: bone_golem_R_shoulder
+    400046: //RootNode
+    400048: GolemMesh
+    400050: helper L
+    400052: helper R
+    2100000: 'Material #27'
+    4300000: GolemMesh
+    9500000: //RootNode
+    13700000: GolemMesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 150
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

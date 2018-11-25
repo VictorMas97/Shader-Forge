@@ -18,20 +18,31 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _node_3031:
-        m_Texture: {fileID: 2800000, guid: 688da05c21a2e744cb3adcae5050a147, type: 3}
+    - _BaseTexture:
+        m_Texture: {fileID: 2800000, guid: 1bc13128da11bb149922885f083c2455, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _node_3031_copy:
-        m_Texture: {fileID: 0}
+    - _BaseTexture_copy:
+        m_Texture: {fileID: 2800000, guid: 1bc13128da11bb149922885f083c2455, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _node_8769:
-        m_Texture: {fileID: 0}
+    - _node_3062:
+        m_Texture: {fileID: 2800000, guid: 8f354e6278ff9d5408958932b55aed52, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _BaseTextureFresnel: 1
+    - _BaseTextureFresnel_copy: 1
     - _Cutoff: 0.5
+    - _Opacity: 0.58
+    - _ShieldDepth: 1
+    - _ShieldDepth_copy: 1
+    - _ShieldFresnel: 1
+    - _ShieldFresnel_copy: 0.54
+    - _ShieldScale: 1
+    - _ShieldSpeed: 0.2
+    - _ShieldTextureFrenel: 0
+    - _ShieldTextureFrenel_copy: 0
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _node_8298: {r: 0, g: 0, b: 1, a: 1}
+    - _ShieldColor: {r: 1, g: 0.5, b: 0, a: 1}
+    - _ShieldColor_copy: {r: 1, g: 0.5, b: 0, a: 1}
