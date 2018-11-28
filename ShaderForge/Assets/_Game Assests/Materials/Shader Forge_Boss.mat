@@ -34,15 +34,13 @@ Material:
     - _BaseTextureFresnel: 1
     - _BaseTextureFresnel_copy: 1
     - _Cutoff: 0.5
-    - _Opacity: 0.58
+    - _Opacity: 1
     - _ShieldDepth: 1
-    - _ShieldDepth_copy: 1
     - _ShieldFresnel: 1
-    - _ShieldFresnel_copy: 0.54
+    - _ShieldFresnel_copy: 1
     - _ShieldScale: 1
     - _ShieldSpeed: 0.2
     - _ShieldTextureFrenel: 0
-    - _ShieldTextureFrenel_copy: 0
     m_Colors:
     - _ShieldColor: {r: 1, g: 0.5, b: 0, a: 1}
     - _ShieldColor_copy: {r: 1, g: 0.5, b: 0, a: 1}
